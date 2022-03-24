@@ -1,0 +1,2048 @@
+[
+  {
+    "id": "207c80a8-d57a-43cf-a3fb-0f7914b8e4b0",
+    "author": "Mary Shelley",
+    "title": "Frankenstein",
+    "year": "1818"
+  },
+  {
+    "id": "03a50ff4-07e4-4398-a0cb-15a734cd9570",
+    "author": "Wilkie Collins",
+    "title": "Woman in White",
+    "year": "1859",
+    "genre": "Mystery"
+  },
+  {
+    "id": "ff591af2-b2c9-4311-86c3-ac6ae71330a9",
+    "author": "Jules Verne",
+    "title": "Journey To The Center Of The Earth",
+    "year": "1864",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "9b25b5a7-fa53-4378-b5e0-c61cbe160688",
+    "author": "Wilkie Collins",
+    "title": "The Moonstone",
+    "year": "1868",
+    "genre": "Mystery"
+  },
+  {
+    "id": "b7c32956-7bf1-4d48-b105-983ac2429dc7",
+    "author": "Jules Verne",
+    "title": "20,000 Leagues Under The Sea",
+    "year": "1871",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "1250ae81-3515-40b6-8440-4a040f6ae888",
+    "author": "Sir Arthur Conan Doyle",
+    "title": "A Study in Scarlet",
+    "year": "1887",
+    "genre": "Mystery"
+  },
+  {
+    "id": "0f320cca-e673-4497-99f0-86ca5697a470",
+    "author": "H.G. Wells",
+    "title": "The Time Machine",
+    "year": "1895",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "903e6844-0c64-4ec4-8a2b-8ef126a2107d",
+    "author": "Henry James",
+    "title": "The Turn of the Screw",
+    "year": "1898"
+  },
+  {
+    "id": "45345f73-7bb7-4707-aeae-0f88dcd0022c",
+    "author": "H.G. Wells",
+    "title": "The War Of The Worlds",
+    "year": "1898",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "0b2f8413-693c-4bd4-b032-13dbf7279298",
+    "author": "Joseph Conrad",
+    "title": "Heart of Darkness",
+    "year": "1902"
+  },
+  {
+    "id": "b72d04e8-59b5-410c-ac11-8a8b47f48e09",
+    "author": "Sir Arthur Conan Doyle",
+    "title": "The Hound of the Baskervilles",
+    "year": "1902",
+    "genre": "Mystery"
+  },
+  {
+    "id": "a40a942e-c0c7-4ad6-b01a-624a0080bbbc",
+    "author": "Henry James",
+    "title": "The Ambassadors",
+    "year": "1903"
+  },
+  {
+    "id": "9455f4b4-5089-459c-ada1-f3c3b9819541",
+    "author": "Edgar Allan Poe",
+    "title": "Tales of Mystery and Imagination",
+    "year": "1908",
+    "genre": "Mystery"
+  },
+  {
+    "id": "0f5787c5-6461-44de-ad37-43762f66fd41",
+    "title": "Trent's Last Case",
+    "author": "E. C. Bentley",
+    "year": "1913"
+  },
+  {
+    "id": "a443f807-f8d4-4093-9185-c374ea6e4298",
+    "author": "John Buchan",
+    "title": "The Thirty-Nine Steps",
+    "year": "1915",
+    "genre": "Mystery"
+  },
+  {
+    "id": "830beede-60ab-477c-b336-55935e8dd716",
+    "author": "James Joyce",
+    "title": "Ulysses",
+    "year": "1922"
+  },
+  {
+    "id": "efd80ddd-1ee6-4812-a5c6-e450b577d9cb",
+    "author": "Margery Williams",
+    "title": "The Velveteen Rabbit",
+    "year": "1922"
+  },
+  {
+    "id": "5ada39c0-bac1-4f56-8264-29016d54d51c",
+    "author": "E. M. Forster",
+    "title": "A Passage to India",
+    "year": "1924"
+  },
+  {
+    "id": "f56b32dd-7be2-4f1c-8870-f4481785e0ba",
+    "author": "F. Scott Fitzgerald",
+    "title": "The Great Gatsby",
+    "year": "1925"
+  },
+  {
+    "id": "3e422757-a3c3-45e2-bd8c-aa20f9947ac7",
+    "author": "Virginia Woolf",
+    "title": "Mrs. Dalloway",
+    "year": "1925"
+  },
+  {
+    "id": "5c521d76-5298-4eb5-8e6f-2a86cf7bff62",
+    "author": "Ernest Hemingway",
+    "title": "The Sun Also Rises",
+    "year": "1926"
+  },
+  {
+    "id": "c4f9c102-438e-4503-bb9a-119af900926b",
+    "author": "Agatha Christie",
+    "title": "The Murder of Roger Ackroyd",
+    "year": "1926",
+    "genre": "Mystery"
+  },
+  {
+    "id": "063331c1-b462-43af-85bf-c8ec74dcef2c",
+    "author": "William Faulkner",
+    "title": "The Sound and the Fury",
+    "year": "1929"
+  },
+  {
+    "id": "c97a4b9e-004b-47ff-af12-97e2ac171e14",
+    "author": "Ernest Hemingway",
+    "title": "A Farewell to Arms",
+    "year": "1929"
+  },
+  {
+    "id": "fb42b4a6-99ad-4094-982a-dc0ed9172485",
+    "author": "Dashiell Hammett",
+    "title": "Red Harvest",
+    "year": "1929",
+    "genre": "Mystery"
+  },
+  {
+    "id": "52331b66-9ed1-4b3f-9064-74d2e1151ef2",
+    "author": "Dashiell Hammett",
+    "title": "The Maltese Falcon",
+    "year": "1930",
+    "genre": "Mystery"
+  },
+  {
+    "id": "947af82a-9ef3-4444-a27e-01855eaaacbc",
+    "author": "Dorothy L. Sayers",
+    "title": "Strong Poison",
+    "year": "1930",
+    "genre": "Mystery"
+  },
+  {
+    "id": "9fe05c66-9a2b-4ff8-abf4-076076468e8b",
+    "author": "Francis Iles",
+    "title": "Malice Aforethought",
+    "year": "1931",
+    "genre": "Mystery"
+  },
+  {
+    "id": "2237f87c-9245-471c-ac35-e821a7225545",
+    "author": "Dashiell Hammett",
+    "title": "The Glass Key",
+    "year": "1931",
+    "genre": "Mystery"
+  },
+  {
+    "id": "9554a439-cf54-4803-84c7-dbbd9a5aa330",
+    "author": "Aldous Huxley",
+    "title": "Brave New World",
+    "year": "1932",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "18bf167d-e78a-48c5-b54a-14b9d6493b69",
+    "author": "Dorothy L. Sayers",
+    "title": "Murder Must Advertise",
+    "year": "1933",
+    "genre": "Mystery"
+  },
+  {
+    "id": "b4d0dcc1-693e-44bf-bafd-e0ea02f472ee",
+    "author": "Henry Miller",
+    "title": "Tropic of Cancer",
+    "year": "1934"
+  },
+  {
+    "id": "e8935aa3-dd5b-4771-9445-465a78f92833",
+    "author": "James M. Cain",
+    "title": "The Postman Always Rings Twice",
+    "year": "1934",
+    "genre": "Mystery"
+  },
+  {
+    "id": "259def76-16f3-4278-83c5-fa42e570eb8b",
+    "author": "Agatha Christie",
+    "title": "Murder on the Orient Express",
+    "year": "1934",
+    "genre": "Mystery"
+  },
+  {
+    "id": "a0b214bc-c0ff-403f-ab11-81fd018aa907",
+    "author": "Dashiell Hammett",
+    "title": "The Thin Man",
+    "year": "1934",
+    "genre": "Mystery"
+  },
+  {
+    "id": "e6a1e0ab-ae14-4f22-a1f6-dd886b859851",
+    "author": "Dorothy L. Sayers",
+    "title": "The Nine Tailors",
+    "year": "1934",
+    "genre": "Mystery"
+  },
+  {
+    "id": "ff71ef7e-eb7f-4418-bff0-e185c5214b85",
+    "author": "Dorothy L. Sayers",
+    "title": "Gaudy Night",
+    "year": "1935",
+    "genre": "Mystery"
+  },
+  {
+    "id": "2019f0b7-7b38-4c48-9798-f62850744e38",
+    "author": "John Dickson Carr",
+    "title": "The Three Coffins",
+    "year": "1935",
+    "genre": "Mystery"
+  },
+  {
+    "id": "4cd36d27-cd4b-4cd8-bf9f-5210e204571c",
+    "author": "Michael Innes",
+    "title": "Hamlet, Revenge!",
+    "year": "1937",
+    "genre": "Mystery"
+  },
+  {
+    "id": "3a22827f-42ad-4add-b45f-3fc312284d01",
+    "author": "Daphne du Maurier",
+    "title": "Rebecca",
+    "year": "1938",
+    "genre": "Mystery"
+  },
+  {
+    "id": "a343fc07-f9bd-4124-944a-2decab1423a3",
+    "author": "Graham Greene",
+    "title": "Brighton Rock",
+    "year": "1938"
+  },
+  {
+    "id": "22ff5742-47b7-4ab0-8be8-a2940eda1efe",
+    "author": "C.S. Lewis",
+    "title": "Out of the Silent Planet",
+    "series": "The Space Trilogy",
+    "year": "1938",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "3ea36943-b8d7-476e-bdb4-4afab9b55c36",
+    "author": "James Joyce",
+    "title": "Finnegans Wake",
+    "year": "1939"
+  },
+  {
+    "id": "c22429a2-119f-42c0-a964-8769b2adde31",
+    "author": "Agatha Christie",
+    "title": "And Then There Were None",
+    "year": "1939",
+    "genre": "Mystery"
+  },
+  {
+    "id": "dcd382b1-044e-45a8-abad-8efe917271f0",
+    "author": "Raymond Chandler",
+    "title": "The Big Sleep",
+    "year": "1939",
+    "genre": "Mystery"
+  },
+  {
+    "id": "a2486b03-3c6c-4d46-aa9e-6bc40a92aba4",
+    "author": "Geoffrey Household",
+    "title": "Rogue Male",
+    "year": "1939",
+    "genre": "Mystery"
+  },
+  {
+    "id": "211a74e0-f553-4f70-9fbe-dfbc32770954",
+    "author": "Eric Ambler",
+    "title": "The Mask of Dimitrios",
+    "year": "1939",
+    "genre": "Mystery"
+  },
+  {
+    "id": "fe28f760-76c5-4fe8-8cce-e3102b5d8645",
+    "author": "Raymond Chandler",
+    "title": "Farewell, My Lovely",
+    "year": "1940",
+    "genre": "Mystery"
+  },
+  {
+    "id": "8db085a4-dbc4-4327-bc23-118c8903734e",
+    "author": "Raymond Chandler",
+    "title": "The Lady in the Lake",
+    "year": "1943",
+    "genre": "Mystery"
+  },
+  {
+    "id": "fd04d4b1-e5e7-4e83-b233-fc2472215822",
+    "author": "C.S. Lewis",
+    "title": "Perelandra",
+    "series": "The Space Trilogy",
+    "year": "1943",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "66c1a4e8-701b-4b35-8f8a-5b988197d146",
+    "author": "George Orwell",
+    "title": "Animal Farm",
+    "year": "1945"
+  },
+  {
+    "id": "ac33c0ac-9027-44ce-a04f-1d735000518e",
+    "author": "C. S. Lewis",
+    "title": "That Hideous Strength",
+    "series": "The Space Trilogy",
+    "year": "1945",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "85505d5f-3588-4d91-baac-4549ba773e06",
+    "author": "Edmund Crispin",
+    "title": "The Moving Toyshop",
+    "year": "1946",
+    "genre": "Mystery"
+  },
+  {
+    "id": "9d0897a7-3071-4912-9b42-064b1900f7ff",
+    "author": "Dorothy Hughes",
+    "title": "In a Lonely Place",
+    "year": "1947",
+    "genre": "Mystery"
+  },
+  {
+    "id": "556cfbe6-e0e1-4860-81f0-454da7d1c09f",
+    "author": "Mickey Spillane",
+    "title": "I, the Jury",
+    "year": "1947",
+    "genre": "Mystery"
+  },
+  {
+    "id": "44436f57-72e9-4055-80b5-4c2b9d41c7bc",
+    "author": "Josephine Tey",
+    "title": "The Franchise Affair",
+    "year": "1948",
+    "genre": "Mystery"
+  },
+  {
+    "id": "6788d68f-7f6f-444c-87ba-8c70a2423f65",
+    "author": "George Orwell",
+    "title": "Nineteen Eighty-Four",
+    "year": "1949",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "625614c4-f996-411f-954f-67e24385bbff",
+    "author": "Ross Macdonald",
+    "title": "The Moving Target",
+    "year": "1949",
+    "genre": "Mystery"
+  },
+  {
+    "id": "3b0697b5-b68e-41e2-be64-28d7f02cbdd0",
+    "author": "Michael Innes",
+    "title": "The Journeying Boy",
+    "year": "1949",
+    "genre": "Mystery"
+  },
+  {
+    "id": "470d98b0-a791-4a5e-92de-ec5a849bd799",
+    "author": "Isaac Asimov",
+    "title": "I, Robot",
+    "year": "1950",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "265c099f-b3f6-4747-aabb-06193c39715e",
+    "author": "Patricia Highsmith",
+    "title": "Strangers on a Train",
+    "year": "1950"
+  },
+  {
+    "id": "20380c3f-b007-4e79-89f8-0f9bdc03e97d",
+    "author": "Michael Gilbert",
+    "title": "Smallbone Deceased",
+    "year": "1950",
+    "genre": "Mystery"
+  },
+  {
+    "id": "51bcfc25-8f21-49aa-bfa3-f833e8cf99bf",
+    "author": "Graham Greene",
+    "title": "The Third Man",
+    "year": "1950",
+    "genre": "Mystery"
+  },
+  {
+    "id": "9f8ef05e-c7b1-415a-88b6-14186c889c75",
+    "author": "Ray Bradbury",
+    "title": "The Martian Chronicles",
+    "year": "1950",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "5211e73f-371a-4e8c-8462-4897d29d2aa0",
+    "author": "J. D. Salinger",
+    "title": "The Catcher in the Rye",
+    "year": "1951"
+  },
+  {
+    "id": "f7eae19b-afc3-43eb-b946-c7e189f74de0",
+    "author": "Josephine Tey",
+    "title": "The Daughter of Time",
+    "year": "1951",
+    "genre": "Mystery"
+  },
+  {
+    "id": "8d74dd18-6124-4720-badd-f3b658539519",
+    "author": "John Dickson Carr",
+    "title": "The Devil in Velvet",
+    "year": "1951",
+    "genre": "Mystery"
+  },
+  {
+    "id": "507faf9e-ba79-438e-abfa-1235a9243660",
+    "author": "Isaac Asimov",
+    "title": "Foundation",
+    "year": "1951",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "f1a6a960-9f68-4183-b55d-b15d7d1b1f69",
+    "author": "Ralph Ellison",
+    "title": "Invisible Man",
+    "year": "1952"
+  },
+  {
+    "id": "813633ac-d687-4ee1-aa89-d399ab3cc7d3",
+    "author": "Kurt Vonnegut",
+    "title": "Piano Player",
+    "year": "1952"
+  },
+  {
+    "id": "aeadff24-b59e-4c4b-9f96-6ea27a4e3e80",
+    "author": "Hillary Waugh",
+    "title": "Last Seen Wearing...",
+    "year": "1952",
+    "genre": "Mystery"
+  },
+  {
+    "id": "fdaa8f35-cb0a-403e-9bd5-b013f63a72b9",
+    "author": "Margery Allingham",
+    "title": "Tiger in the Smoke",
+    "year": "1952",
+    "genre": "Mystery"
+  },
+  {
+    "id": "c805bb33-47c9-4622-aeaf-93d29d07c4e8",
+    "author": "Charlotte Jay",
+    "title": "Beat Not the Bones",
+    "year": "1952",
+    "award": "Edgar Award Best Novel 1954",
+    "genre": "Mystery"
+  },
+  {
+    "id": "f1b0676d-bc9b-4d21-ba38-eab0412b46d3",
+    "author": "Ray Bradbury",
+    "title": "Fahrenheit 451",
+    "year": "1953"
+  },
+  {
+    "id": "9851200d-751a-49d7-9934-61bc259fd680",
+    "author": "Raymond Chandler",
+    "title": "The Long Goodbye",
+    "year": "1953",
+    "award": "Edgar Award Best Novel 1955",
+    "genre": "Mystery"
+  },
+  {
+    "id": "2ca38cec-c4ed-43c3-a2f1-cd2955c3b0d1",
+    "title": "Childhood's End",
+    "author": "Arthur C. Clarke",
+    "year": "1953"
+  },
+  {
+    "id": "55f0918c-6ba1-45b5-b32d-e8ddd1ac2c01",
+    "author": "Isaac Asimov",
+    "title": "The Caves Of Steel",
+    "year": "1953",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "90045074-19ec-43d1-9e7e-fd8bb84f5f71",
+    "author": "J. R. R. Tolkien",
+    "title": "The Fellowship of the Ring",
+    "series": "The Lord of the Rings",
+    "year": "1954",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "1840e4a8-d4ee-477d-9cf9-d8b3fa270ef8",
+    "author": "Richard Matheson",
+    "title": "I Am Legend",
+    "year": "1954"
+  },
+  {
+    "id": "7260fdf8-a741-4dad-9eeb-e5c27d04768f",
+    "author": "J. R. R. Tolkien",
+    "title": "The Two Towers",
+    "series": "The Lord of the Rings",
+    "year": "1954",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "fa0f5f6b-34a5-4474-bdb9-94f8d20b8df6",
+    "author": "Vladimir Nabokov",
+    "title": "Lolita",
+    "year": "1955"
+  },
+  {
+    "id": "307f8e6e-fd3c-4c2a-a4b6-f690ce5e7b4e",
+    "author": "Patricia Highsmith",
+    "title": "The Talented Mr. Ripley",
+    "year": "1955"
+  },
+  {
+    "id": "35310dce-893a-42f3-8fe6-381ca15c8806",
+    "author": "Margaret Millar",
+    "title": "Beast in View",
+    "year": "1955",
+    "award": "Edgar Award Best Novel 1956",
+    "genre": "Mystery"
+  },
+  {
+    "id": "32a5b82e-c421-4b84-a434-a120a1fa2f1c",
+    "author": "J. R. R. Tolkien",
+    "title": "The Return of the King",
+    "series": "The Lord of the Rings ",
+    "year": "1955",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "ee6e43ea-3a4b-4bee-9179-b67db6f3e975",
+    "author": "Ed McBain",
+    "title": "Cop Hater",
+    "year": "1956"
+  },
+  {
+    "id": "7464a356-a2fc-4d74-9205-9ae6c062ab31",
+    "author": "Ian Fleming",
+    "title": "From Russia, With Love",
+    "year": "1957"
+  },
+  {
+    "id": "a16b1004-8ca4-4227-b292-68661caa4ea2",
+    "author": "Alistair MacLean",
+    "title": "The Guns of Navarone",
+    "year": "1957"
+  },
+  {
+    "id": "6e324c67-b933-4f70-b51d-cf029202906f",
+    "author": "Chinua Achebe",
+    "title": "Things Fall Apart",
+    "year": "1958"
+  },
+  {
+    "id": "5b7e54e4-b66d-4fbc-9fb1-9c3e14bca0a2",
+    "author": "Ed McBain",
+    "title": "Killer’s Payoff",
+    "year": "1958",
+    "genre": "Mystery"
+  },
+  {
+    "id": "5ef696fc-adc2-43a5-b83e-f2c7e014c8d0",
+    "author": "Mary Stewart",
+    "title": "Nine Coaches Waiting",
+    "year": "1958",
+    "genre": "Mystery"
+  },
+  {
+    "id": "ef27ebdf-7133-4a0b-92e2-3b68ddc5ed94",
+    "author": "Robert Traver",
+    "title": "Anatomy of a Murder",
+    "year": "1959",
+    "genre": "Mystery"
+  },
+  {
+    "id": "95b183a6-90cf-4adb-ac38-534f4c21eff9",
+    "author": "Mary Stewart",
+    "title": "My Brother Michael",
+    "year": "1959",
+    "genre": "Mystery"
+  },
+  {
+    "id": "114493df-ae54-48d9-b420-cc55a58747b3",
+    "author": "Richard Condon",
+    "title": "The Manchurian Candidate",
+    "year": "1959",
+    "genre": "Thriller"
+  },
+  {
+    "id": "7bf55f72-4ac8-476a-bda7-3b2f9eebfaae",
+    "author": "Robert A. Heinlein",
+    "title": "Starship Troopers",
+    "year": "1959",
+    "award": "Hugo Award Best Novel 1960",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "c0551cdd-d223-4f10-80b0-e2862f64798e",
+    "author": "Walter M. Miller Jr.",
+    "title": "A Canticle For Leibowitz",
+    "year": "1959",
+    "award": "Hugo Award Best Novel 1961",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "8c396ab4-f32d-4b12-bc45-43c2508bb084",
+    "author": "Daniel Keyes",
+    "title": "Flowers For Algernon",
+    "year": "1959",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "8c8c0e19-3f41-4e4e-856d-e05a7d956a16",
+    "author": "Kurt Vonnegut",
+    "title": "The Sirens of Titan",
+    "year": "1959",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "5aa2d352-c47a-48be-b629-061ac7ee689f",
+    "author": "Robert A. Heinlein",
+    "title": "Stranger in a Strange Land",
+    "year": "1961",
+    "award": "Hugo Award Best Novel 1962"
+  },
+  {
+    "id": "e1cd6413-d59c-43ee-8e7b-60e21073bf39",
+    "author": "Stanisław Lem",
+    "title": "Solaris",
+    "year": "1961",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "3e2b2d3b-0f34-4816-9b4c-2dd217c25b5c",
+    "author": "Anthony Burgess",
+    "title": "A Clockwork Orange",
+    "year": "1962"
+  },
+  {
+    "id": "35033f92-d24c-48f4-8370-d272bc395771",
+    "author": "Vladimir Nabokov",
+    "title": "Pale Fire",
+    "year": "1962"
+  },
+  {
+    "id": "526426b4-f740-430b-af68-99f665d8779c",
+    "author": "Dick Francis",
+    "title": "Dead Cert",
+    "year": "1962",
+    "genre": "Mystery"
+  },
+  {
+    "id": "f7367a9d-22c6-43ab-af19-0a0e2407236c",
+    "author": "P.D. James",
+    "title": "Cover Her Face",
+    "year": "1962",
+    "genre": "Mystery"
+  },
+  {
+    "id": "c0649b66-7281-4f61-9bef-0ed8b7a32926",
+    "author": "Len Deighton",
+    "title": "The IPCRESS File",
+    "year": "1962",
+    "genre": "Mystery"
+  },
+  {
+    "id": "053f4c5d-034c-4d13-87e7-70959c3ceb8e",
+    "author": "Lionel Davidson",
+    "title": "The Rose of Tibet",
+    "year": "1962"
+  },
+  {
+    "id": "0b997d4f-f26a-4f37-8842-522c3c3412da",
+    "author": "Ray Bradbury",
+    "title": "Something Wicked This Way Comes",
+    "year": "1962",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "953b78c8-c12a-48c0-8b1c-3fb7ed9ae728",
+    "author": "Philip K. Dick",
+    "title": "The Man in the High Castle",
+    "year": "1962",
+    "award": "Hugo Award Best Novel 1963"
+  },
+  {
+    "id": "68673e3a-2a62-4ebe-b895-1636d296deaf",
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "year": "1962"
+  },
+  {
+    "id": "a4c725f3-066d-4a88-bf27-cca4651ea5ff",
+    "author": "John le Carré",
+    "title": "The Spy Who Came in From the Cold",
+    "year": "1963",
+    "award": "Edgar Award Best Novel 1965",
+    "genre": "Mystery"
+  },
+  {
+    "id": "7fb70b08-f5ea-4bb5-a3ad-97f49130945c",
+    "title": "Cat's Cradle",
+    "author": "Kurt Vonnegut",
+    "year": "1963"
+  },
+  {
+    "id": "a8043b91-9f15-49a8-9201-63e693bd3f57",
+    "author": "John D. MacDonald",
+    "title": "The Deep Blue Good-by",
+    "year": "1964",
+    "genre": "Mystery"
+  },
+  {
+    "id": "608c5896-43d1-4814-99d1-01216c5af42c",
+    "author": "Georges Simenon",
+    "title": "The Patience of Maigret",
+    "year": "1965",
+    "genre": "Mystery"
+  },
+  {
+    "id": "79b4fed9-da81-4231-9168-73ba63a1f86d",
+    "author": "Adam Hall",
+    "title": "The Quiller Memorandum",
+    "year": "1965",
+    "award": "Edgar Award Best Novel 1966",
+    "genre": "Mystery"
+  },
+  {
+    "id": "adc690ac-961e-4d10-8914-57770e234302",
+    "author": "Frank Herbert",
+    "title": "Dune",
+    "year": "1965",
+    "award": "Nebula Award Best Novel 1966",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "82d70a0e-4b7a-4292-8a25-daea660fa0c7",
+    "author": "Roderick Thorp",
+    "title": "The Detective",
+    "year": "1966",
+    "genre": "Mystery"
+  },
+  {
+    "id": "bb425a4f-0cc1-470e-a4b0-85f0c0925c3e",
+    "author": "Robert A. Heinlein",
+    "title": "The Moon Is A Harsh Mistress",
+    "year": "1966",
+    "award": "Hugo Award Best Novel 1967",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "18d2fcb9-cbff-4c0c-878e-9c82951ba00e",
+    "author": "Philip K. Dick",
+    "title": "Do Androids Dream Of Electric Sheep?",
+    "year": "1968",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "b925dc5c-cfc2-4a47-9a31-d016e9c2c420",
+    "author": "Arthur C. Clarke",
+    "title": "2001: A Space Odyssey",
+    "year": "1968",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "814137c6-664a-43fc-a430-1c04703fbca0",
+    "author": "Anne McCaffrey",
+    "title": "Dragonflight",
+    "year": "1968",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "60ba8316-2e45-4a8b-a514-c2f7f8caf14f",
+    "author": "Peter S. Beagle",
+    "title": "The Last Unicorn",
+    "year": "1968",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "21b6ef3d-08ed-491b-b6c3-ec39d16284ed",
+    "author": "Dick Francis",
+    "title": "Forfeit",
+    "year": "1968",
+    "award": "Edgar Award Best Novel 1970",
+    "genre": "Mystery"
+  },
+  {
+    "id": "dc40767a-1505-4c3a-a60d-dd760094a2ea",
+    "author": "Kurt Vonnegut",
+    "title": "Slaughterhouse-Five",
+    "year": "1969"
+  },
+  {
+    "id": "5a5a2051-f9a4-4881-8d9e-2847f157e96f",
+    "author": "Ursula K. Le Guin",
+    "title": "The Left Hand Of Darkness",
+    "year": "1969",
+    "award": "Nebula Award Best Novel 1970",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "db431844-448f-4a1f-ab0f-f40514251052",
+    "author": "Jack Finney",
+    "title": "Time and Again",
+    "year": "1970"
+  },
+  {
+    "id": "46cbbc2c-5d3c-471a-a425-91d9cb095b36",
+    "author": "Tony Hillerman",
+    "title": "The Blessing Way",
+    "year": "1970",
+    "genre": "Mystery"
+  },
+  {
+    "id": "27254d15-8c26-420a-a87f-08cae3c0c808",
+    "author": "Peter Lovesey",
+    "title": "Wobble to Death",
+    "year": "1970",
+    "genre": "Mystery"
+  },
+  {
+    "id": "cd9f4fa7-6e66-4bda-af55-1e26785a3f86",
+    "author": "Anthony Price",
+    "title": "The Labyrinth Makers",
+    "year": "1970",
+    "genre": "Mystery"
+  },
+  {
+    "id": "1f9eb675-66d8-4b25-9c17-b6ffcda10514",
+    "author": "Desmond Bagley",
+    "title": "Running Blind",
+    "year": "1970"
+  },
+  {
+    "id": "e8f6d0cb-832c-41c2-9da3-f24055a77cf8",
+    "author": "Larry Niven",
+    "title": "Ringworld",
+    "year": "1970",
+    "award": "Nebula Award Best Novel 1971",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "ddb61023-b93a-4196-892a-06180857576d",
+    "author": "Mary Stewart",
+    "title": "The Crystal Cave",
+    "year": "1970",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "594de5bc-225b-4635-9eed-1513d4542017",
+    "author": "Frederick Forsyth",
+    "title": "The Day of the Jackal",
+    "year": "1971",
+    "award": "Edgar Award Best Novel 1972",
+    "genre": "Mystery"
+  },
+  {
+    "id": "8a9b83b5-17f4-4f89-ab0a-169916acc5f0",
+    "author": "Dick Francis",
+    "title": "Whip Hand",
+    "year": "1971",
+    "award": "Edgar Award Best Novel 1981",
+    "genre": "Mystery"
+  },
+  {
+    "id": "b5502370-c5d8-407a-b6a9-6296b9b8693a",
+    "author": "Richard Adams",
+    "title": "Watership Down",
+    "year": "1972"
+  },
+  {
+    "id": "98315134-b42e-4016-860d-a6ab94153b82",
+    "title": "Gravity's Rainbow",
+    "author": "Thomas Pynchon",
+    "year": "1973"
+  },
+  {
+    "id": "09317116-b78f-494c-8df8-c70defa53945",
+    "author": "William Goldman",
+    "title": "The Princess Bride",
+    "year": "1973",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "5f758b81-6bcd-4c3f-8d62-802e059ff1b7",
+    "author": "Arthur C. Clarke",
+    "title": "Rendezvous With Rama",
+    "year": "1973",
+    "award": "Nebula Award Best Novel 1974",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "f153c764-04a5-4ee8-834b-88e88549aedc",
+    "author": "Tony Hillerman",
+    "title": "Dance Hall of the Dead",
+    "year": "1973",
+    "award": "Edgar Award Best Novel 1974",
+    "genre": "Mystery"
+  },
+  {
+    "id": "06d6a479-82c8-4424-bd84-13ae79d97f56",
+    "author": "John Le Carré",
+    "title": "Tinker Tailor Soldier Spy",
+    "year": "1974"
+  },
+  {
+    "id": "14114594-bba4-4e11-b4bf-4ecb041f8937",
+    "author": "Joe Haldeman",
+    "title": "The Forever War",
+    "year": "1974",
+    "award": "Nebula Award Best Novel 1976",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "9990bea8-4c7e-4075-835a-3e9853ffc75a",
+    "author": "Ursula K. Le Guin",
+    "title": "The Dispossessed",
+    "year": "1974",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "2bc71b47-1b5b-48fe-b51b-fb908b8a1ef7",
+    "title": "The Mote In God's Eye",
+    "author": "Larry Niven",
+    "year": "1974"
+  },
+  {
+    "id": "c4e77326-1694-4e15-97aa-7f729e556887",
+    "author": "Jack Higgins",
+    "title": "The Eagle Has Landed",
+    "year": "1975",
+    "genre": "Thriller"
+  },
+  {
+    "id": "1ee4aaae-8066-4993-bf12-daf8273b012f",
+    "author": "Samuel R. Delany",
+    "title": "Dhalgren",
+    "year": "1975",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "8a0d03f5-6435-4781-b727-0b5f86f43e2a",
+    "author": "Ruth Rendell",
+    "title": "A Demon in My View",
+    "year": "1976"
+  },
+  {
+    "id": "3c6612f9-2281-44a4-8ebb-0cc78246786a",
+    "author": "Frederik Pohl",
+    "title": "Man Plus",
+    "year": "1976",
+    "award": "Nebula Award Best Novel 1977",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "91f8ba46-bb25-4212-98f2-5bb3f983f7da",
+    "author": "Robert Coover",
+    "title": "The Public Burning",
+    "year": "1977"
+  },
+  {
+    "id": "f4fc9c15-26be-4b66-9eed-df68df000b5d",
+    "author": "John Gregory Dunne",
+    "title": "True Confessions",
+    "year": "1977",
+    "genre": "Mystery"
+  },
+  {
+    "id": "0247fa7c-2c6d-4c10-853b-6787f65a2dbe",
+    "author": "Ruth Rendell",
+    "title": "A Judgement in Stone",
+    "year": "1977"
+  },
+  {
+    "id": "7cc42ad1-0e87-4bea-ace2-da65b57d4dfb",
+    "author": "Frederik Pohl",
+    "title": "Gateway",
+    "year": "1977",
+    "award": "Nebula Award Best Novel 1978",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "68bfa4b7-528e-41db-81cd-16c07c7e22a6",
+    "author": "Ken Follett",
+    "title": "Eye of the Needle",
+    "year": "1978",
+    "award": "Edgar Award Best Novel 1979",
+    "genre": "Thriller"
+  },
+  {
+    "id": "d26d235d-02db-4314-a787-c72d09cad44f",
+    "author": "Ellen Raskin",
+    "title": "The Westing Game",
+    "year": "1978",
+    "genre": "Mystery"
+  },
+  {
+    "id": "5ec0a3de-7956-494a-af6a-76aba08a7be4",
+    "author": "James Crumley",
+    "title": "The Last Good Kiss",
+    "year": "1978",
+    "genre": "Mystery"
+  },
+  {
+    "id": "aca26534-7bda-4513-9541-534b9534473d",
+    "author": "Ellen Raskin",
+    "title": "The Westing Game",
+    "year": "1978",
+    "genre": "Mystery"
+  },
+  {
+    "id": "c2563ff2-1c21-4560-a81b-1f22211439f8",
+    "author": "Paula Gosling",
+    "title": "A Running Duck",
+    "year": "1978",
+    "genre": "Mystery"
+  },
+  {
+    "id": "67489e80-94af-4b59-a1be-8416ae9a477b",
+    "author": "Stephen King",
+    "title": "The Stand",
+    "year": "1978"
+  },
+  {
+    "id": "b94eb97b-9634-4129-883a-deb0972e9ec1",
+    "author": "Douglas Adams",
+    "title": "The Hitchhiker’s Guide to the Galaxy",
+    "year": "1979",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "8783bd91-4e14-471d-a78b-401cdcda4199",
+    "author": "Doris Lessing",
+    "title": "Shikasta",
+    "series": "Canopus in Argos",
+    "year": "1979",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "ee3dbb1c-380e-4560-ba9c-e1622e0eb2e9",
+    "author": "Umberto Eco",
+    "title": "The Name of the Rose",
+    "year": "1980",
+    "genre": "Mystery"
+  },
+  {
+    "id": "4b8269f4-0288-41cb-b19e-7b3b45ee0a43",
+    "author": "P. D. James",
+    "title": "Innocent Blood",
+    "year": "1980",
+    "genre": "Mystery"
+  },
+  {
+    "id": "5bfaa6c8-b1dc-42c8-a30d-997e7a881012",
+    "author": "Ken Follett",
+    "title": "The Key to Rebecca",
+    "year": "1980",
+    "genre": "Thriller"
+  },
+  {
+    "id": "612bef7e-ce5f-4671-9bb9-0fa091e9ecb4",
+    "title": "Midnight's Children",
+    "author": "Salman Rushdie",
+    "year": "1981"
+  },
+  {
+    "id": "6fd3cb00-87dd-4088-8020-852020fbe0f5",
+    "author": "Colin Dexter",
+    "title": "The Dead of Jericho",
+    "year": "1981",
+    "genre": "Mystery"
+  },
+  {
+    "id": "5bfe97fe-099c-4797-8506-dc5ad219226c",
+    "author": "Dick Francis",
+    "title": "Twice Shy",
+    "year": "1981",
+    "genre": "Mystery"
+  },
+  {
+    "id": "10147486-eac1-4ab6-8e66-d403dc3bdf70",
+    "author": "Martin Cruz Smith",
+    "title": "Gorky Park",
+    "year": "1981",
+    "genre": "Mystery"
+  },
+  {
+    "id": "127ea92d-ab7a-4415-b6b2-b80c99f69847",
+    "author": "Sue Grafton",
+    "title": "A Is for Alibi",
+    "year": "1982",
+    "genre": "Mystery"
+  },
+  {
+    "id": "5f8b1c95-de51-4c25-a811-ce166b748bd3",
+    "author": "John D. MacDonald",
+    "title": "Cinnamon Skin",
+    "year": "1982",
+    "genre": "Mystery"
+  },
+  {
+    "id": "f75525b9-7724-4efa-9e2e-b2879a06c992",
+    "author": "Peter Lovesey",
+    "title": "The False Inspector Dew",
+    "year": "1982",
+    "genre": "Mystery"
+  },
+  {
+    "id": "6fec24ef-f0d6-4b9a-8452-13399d7b0082",
+    "author": "Len Deighton",
+    "title": "Berlin Game",
+    "year": "1983"
+  },
+  {
+    "id": "d94bf32c-0313-4bbd-85f9-41955e91b4ad",
+    "author": "Dick Francis",
+    "title": "The Danger",
+    "year": "1983",
+    "genre": "Mystery"
+  },
+  {
+    "id": "1f8dd90d-2382-4d23-ad22-ced1ac156eea",
+    "author": "Reginald Hill",
+    "title": "Deadheads",
+    "year": "1983",
+    "genre": "Mystery"
+  },
+  {
+    "id": "b9bc4e63-357b-48ea-969a-c5b789c93d04",
+    "author": "William Gibson",
+    "title": "Neuromancer",
+    "year": "1984",
+    "award": "Nebula Award Best Novel 1985",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "3756f7d1-d0bb-42a5-9446-a8d73c948d43",
+    "author": "Sarah Caudwell",
+    "title": "The Shortest Way to Hades",
+    "year": "1984",
+    "genre": "Mystery"
+  },
+  {
+    "id": "adc1d862-97e0-416d-b941-a7cce9b8cfa7",
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "year": "1985"
+  },
+  {
+    "id": "4116c69c-d1c9-4464-b92e-cb1cb4566024",
+    "author": "Joseph Wambaugh",
+    "title": "The Secrets of Harry Bright",
+    "year": "1985",
+    "genre": "Mystery"
+  },
+  {
+    "id": "462a32a5-b04b-4a0e-acaa-cb762a97e60e",
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "year": "1985"
+  },
+  {
+    "id": "8e128d7f-9b77-4a63-a1f7-fcfaf3c150ab",
+    "author": "Carl Sagan",
+    "title": "Contact",
+    "year": "1985",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "8c6b40e4-cc07-40a4-8c6e-255455bac265",
+    "author": "Michael Nava",
+    "title": "The Little Death",
+    "year": "1986",
+    "genre": "Mystery"
+  },
+  {
+    "id": "650b940f-8d41-4658-9d54-ce3a5e008668",
+    "author": "Barbara Vine",
+    "title": "A Dark-Adapted Eye",
+    "year": "1986",
+    "genre": "Mystery"
+  },
+  {
+    "id": "7aa3e1bb-f12d-4bfd-acfa-ac6005dbee5f",
+    "author": "P. D. James",
+    "title": "A Taste for Death",
+    "year": "1986",
+    "genre": "Mystery"
+  },
+  {
+    "id": "eff271ab-461e-4f5f-b3e8-e2cbc606bf97",
+    "author": "James Lee Burke",
+    "title": "The Neon Rain",
+    "year": "1987",
+    "genre": "Mystery"
+  },
+  {
+    "id": "81ee2549-3c77-4569-a9d2-dbf2a7297318",
+    "author": "Scott Turow",
+    "title": "Presumed Innocent",
+    "year": "1987",
+    "genre": "Mystery"
+  },
+  {
+    "id": "0b6757a5-ddf1-4aff-9c7b-ab0ec52506c5",
+    "author": "Ian Rankin",
+    "title": "Knots and Crosses",
+    "year": "1987",
+    "genre": "Mystery"
+  },
+  {
+    "id": "902e8fa9-d9f2-4a64-8562-84f16f3cd286",
+    "author": "Carl Hiaasen",
+    "title": "Double Whammy",
+    "year": "1987",
+    "genre": "Mystery"
+  },
+  {
+    "id": "8b260aa0-393a-4805-a402-7fd75b703dda",
+    "author": "Ruth Rendell",
+    "title": "A Fatal Inversion",
+    "year": "1987",
+    "genre": "Mystery"
+  },
+  {
+    "id": "5720cd7b-5585-4200-b850-a00303dc2439",
+    "author": "Peter Lovesey",
+    "title": "Bertie and the Tinman",
+    "year": "1987",
+    "genre": "Mystery"
+  },
+  {
+    "id": "4125296f-7335-4e48-8b60-4d79c4a611cd",
+    "author": "Don DeLillo",
+    "title": "Libra",
+    "year": "1988"
+  },
+  {
+    "id": "9729ae64-6cb4-4903-859f-a591f8e94b36",
+    "author": "Thomas Harris",
+    "title": "The Silence of the Lambs",
+    "year": "1988",
+    "genre": "Mystery"
+  },
+  {
+    "id": "400cdb7b-f6b5-42e7-a8e1-afaa50641015",
+    "author": "Reginald Hill",
+    "title": "Under World",
+    "year": "1988",
+    "genre": "Mystery"
+  },
+  {
+    "id": "382ae762-cb54-4f27-af31-402f4ff2633a",
+    "author": "Tony Hillerman",
+    "title": "A Thief of Time",
+    "year": "1988",
+    "genre": "Mystery"
+  },
+  {
+    "id": "2e8d693c-f7c8-4712-8fa7-a242483c58d3",
+    "author": "P. D. James",
+    "title": "Devices and Desires",
+    "year": "1989",
+    "genre": "Mystery"
+  },
+  {
+    "id": "956e2a85-53e6-4e03-8380-cbe6c8535aac",
+    "author": "Dan Simmons",
+    "title": "Hyperion",
+    "year": "1989",
+    "award": "Hugo Award Best Novel 1990",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "82041495-953b-4092-a656-5096c1e2cd2b",
+    "author": "Ursula K. Le Guin",
+    "title": "Tehanu: The Last Book of Earthsea",
+    "year": "1990",
+    "award": "Nebula Award Best Novel 1991",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "cd08bd68-7fc0-449e-a1fb-09db42c9aeb7",
+    "author": "Walter Mosley",
+    "title": "Devil in a Blue Dress",
+    "year": "1990",
+    "genre": "Mystery"
+  },
+  {
+    "id": "3c76f20a-41fa-4a20-ae75-090ef593a0c8",
+    "author": "Patricia Cornwell",
+    "title": "Postmortem",
+    "year": "1990",
+    "genre": "Mystery"
+  },
+  {
+    "id": "8d1b3789-942a-4022-a862-9710cf79fe7d",
+    "author": "James Ellroy",
+    "title": "L.A. Confidential",
+    "year": "1990",
+    "genre": "Mystery"
+  },
+  {
+    "id": "1ed3ced7-f638-4b14-8f76-6662d3d34c85",
+    "author": "Brett Easton Ellis",
+    "title": "American Psycho",
+    "year": "1991"
+  },
+  {
+    "id": "0570814d-0829-4ed7-82eb-52f23ce6f227",
+    "author": "Henning Mankell",
+    "title": "Faceless Killers",
+    "year": "1991",
+    "genre": "Mystery"
+  },
+  {
+    "id": "09262a6a-a8f7-4c79-9647-5e76dffa2117",
+    "author": "Connie Willis",
+    "title": "Doomsday Book",
+    "year": "1992",
+    "award": "Nebula Award Best Novel 1993",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "e6abb9ff-9682-48d9-9e9e-6d1654e3c61b",
+    "author": "Donna Tartt",
+    "title": "The Secret History",
+    "year": "1992",
+    "genre": "Mystery"
+  },
+  {
+    "id": "01987d8f-bb7b-4bb3-82a2-b10657d8da06",
+    "author": "Donna Leon",
+    "title": "Death at La Fenice",
+    "year": "1992",
+    "genre": "Mystery"
+  },
+  {
+    "id": "cd7fc3a9-2867-4f9c-8513-89fbdb919771",
+    "author": "Michael Connelly",
+    "title": "The Black Echo",
+    "year": "1992",
+    "genre": "Mystery"
+  },
+  {
+    "id": "be9682ea-46f7-4915-9419-3bf620967644",
+    "author": "Neal Stephenson",
+    "title": "Snow Crash",
+    "year": "1992",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "f79a6b1c-c8d0-49b8-a358-06c98561437a",
+    "author": "Terry Pratchett",
+    "title": "Small Gods: A Novel of Discworld",
+    "year": "1992"
+  },
+  {
+    "id": "8831ffbf-3c11-4c81-890a-5cbf534d7e35",
+    "author": "Vernor Vinge",
+    "title": "A Fire Upon The Deep",
+    "year": "1992",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "05e526ec-9448-47fb-bc1a-1e9262449089",
+    "author": "P. D. James",
+    "title": "The Children of Men",
+    "year": "1992",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "e59955be-2bf8-4db3-9021-6ae90520c66f",
+    "author": "Kim Stanley Robinson",
+    "title": "Red Mars",
+    "series": "Mars trilogy",
+    "year": "1992",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "9b4b0030-72ad-40b4-94d4-e934753bf107",
+    "author": "Nicola Griffith",
+    "title": "Ammonite",
+    "year": "1992",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "e67031a7-6dd0-4b62-bdbc-18273efd9e8b",
+    "author": "Caleb Carr",
+    "title": "The Alienist",
+    "year": "1994"
+  },
+  {
+    "id": "9ee9a337-d1c6-4175-83e7-7a1d4e67b5e1",
+    "author": "Janet Evanovich",
+    "title": "One for the Money",
+    "year": "1994",
+    "genre": "Mystery"
+  },
+  {
+    "id": "eca6f101-8dc7-48b1-9ce0-b83caea44d02",
+    "author": "Gregory Maguire",
+    "title": "Wicked: The Life and Times of the Wicked Witch of the West",
+    "year": "1995",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "0554d98c-d7c7-402a-9f79-4a84cc7f231d",
+    "author": "Dick Francis",
+    "title": "Come to Grief",
+    "year": "1995",
+    "award": "Edgar Award Best Novel 1996",
+    "genre": "Mystery"
+  },
+  {
+    "id": "28721333-7f91-44a3-8943-f1a196fcd7de",
+    "author": "George R. R. Martin",
+    "title": "A Game of Thrones",
+    "series": "A Song Of Ice And Fire",
+    "year": "1996",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "3e10220a-a42b-4333-8f6b-c52aa928e740",
+    "author": "Neil Gaiman",
+    "title": "Neverwhere",
+    "year": "1996"
+  },
+  {
+    "id": "9d9e23ec-e6e9-4458-bf40-e37b91d025c6",
+    "author": "Neal Stephenson",
+    "title": "The Diamond Age",
+    "year": "1996",
+    "award": "Hugo Award Best Novel 1996",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "52553d85-28f7-42ce-a689-8aaa5e09d783",
+    "author": "Lee Child",
+    "title": "Killing Floor",
+    "year": "1997",
+    "genre": "Mystery"
+  },
+  {
+    "id": "25d44903-394c-487a-9bcc-e242e418e5eb",
+    "author": "Jo Nesbø",
+    "title": "The Bat",
+    "year": "1997",
+    "genre": "Mystery"
+  },
+  {
+    "id": "7cfbf422-3d1a-4a8c-91bb-bc398d32061c",
+    "author": "Joe Haldeman",
+    "title": "Forever Peace",
+    "year": "1997",
+    "award": "Hugo Award Best Novel 1998",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "d6f6a949-8b8f-46e3-831d-7a097ad22dc9",
+    "author": "Reginald Hill",
+    "title": "On Beulah Height",
+    "year": "1998",
+    "genre": "Mystery"
+  },
+  {
+    "id": "e50d0410-3930-4766-b9b4-9d445a0baba4",
+    "author": "Alexander McCall Smith",
+    "title": "The No. 1 Ladies’ Detective Agency",
+    "year": "1998",
+    "genre": "Mystery"
+  },
+  {
+    "id": "11bc9ba5-c377-4cdd-bf14-b09b8a406829",
+    "author": "Jonathan Lethem",
+    "title": "Motherless Brooklyn",
+    "year": "1999",
+    "genre": "Mystery"
+  },
+  {
+    "id": "6e27e7b7-d7d4-48cc-b09c-766e5c20f345",
+    "author": "Neil Gaiman",
+    "title": "Stardust",
+    "year": "1999",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "da502f31-0620-410c-8be5-236a18412cee",
+    "author": "Neal Stephenson",
+    "title": "Cryptonomicon",
+    "year": "1999",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "26cf6596-69d0-457f-a7f5-41e4bbb074b2",
+    "author": "George R.R. Martin",
+    "title": "A Clash of Kings",
+    "series": "A Song of Ice and Fire",
+    "year": "1999",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "9aff0453-2e7e-4846-8a38-c623339d5c85",
+    "author": "Arnaldur Indriðason",
+    "title": "Jar City",
+    "year": "2000",
+    "genre": "Mystery"
+  },
+  {
+    "id": "cb59bb03-5ee2-418b-aa0f-0947acc0e7b9",
+    "author": "China Miéville",
+    "title": "Perdido Street Station",
+    "year": "2000"
+  },
+  {
+    "id": "6661508f-d6ef-4af0-a4e6-20d68f4ac5f7",
+    "author": "James Patterson",
+    "title": "1st To Die",
+    "year": "2001",
+    "genre": "Mystery"
+  },
+  {
+    "id": "7e880147-8f6c-4d7c-9590-02a8582655a2",
+    "author": "Neil Gaiman",
+    "title": "American Gods",
+    "year": "2001",
+    "award": "Nebula Award Best Novel 2003",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "c16f11ed-04a7-402f-b004-4bf2ddb74ffe",
+    "author": "Jasper Fforde",
+    "title": "The Eyre Affair",
+    "year": "2001",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "9132626b-58a9-489a-bac1-be0ae53bffc5",
+    "author": "Ian Rankin",
+    "title": "Resurrection Men",
+    "year": "2002",
+    "award": "Edgar Award Best Novel 2004",
+    "genre": "Mystery"
+  },
+  {
+    "id": "5ca84533-3d63-4dc5-8abb-2cf200dcc8b3",
+    "author": "Dennis Lehane",
+    "title": "Shutter Island",
+    "year": "2003"
+  },
+  {
+    "id": "ef747fd5-2e8c-4f1c-81b2-e744801cd9ee",
+    "author": "Dan Brown",
+    "title": "The Da Vinci Code",
+    "year": "2003",
+    "genre": "Mystery"
+  },
+  {
+    "id": "27618828-891c-4ff1-a289-f82cd462da6a",
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "year": "2003"
+  },
+  {
+    "id": "8b58a5af-0f30-4c79-bc51-7968f4104f62",
+    "author": "Margaret Atwood",
+    "title": "Oryx and Crake",
+    "year": "2003",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "3ebf4822-ea92-4b27-9df4-4918205ade9b",
+    "author": "Kate Atkinson",
+    "title": "Case Histories",
+    "year": "2004",
+    "genre": "Mystery"
+  },
+  {
+    "id": "6486b640-33d7-4072-a9f0-99c142ad8555",
+    "author": "Naomi Hirahara",
+    "title": "Summer of the Big Bachi",
+    "year": "2004",
+    "genre": "Mystery"
+  },
+  {
+    "id": "9ec772cc-2d6a-4db7-8dd6-ebb431046604",
+    "author": "Terry Pratchett",
+    "title": "Going Postal A Novel of Discworld",
+    "year": "2004"
+  },
+  {
+    "id": "a44286bb-fcfa-442e-abbb-cf2bd47caecd",
+    "title": "Jonathan Strange & Mr Norrell",
+    "author": "Susanna Clarke",
+    "year": "2004"
+  },
+  {
+    "id": "ee192cb3-fa6c-4eac-8fd6-0e299a92cfa0",
+    "author": "Louise Penny",
+    "title": "Still Life",
+    "year": "2005",
+    "genre": "Mystery"
+  },
+  {
+    "id": "a261ed45-467d-4c80-a31b-267280f87fda",
+    "title": "Old Man's War",
+    "author": "John Scalzi",
+    "year": "2005"
+  },
+  {
+    "id": "e4c2874d-e81a-457f-8a70-a2ff6e6928f9",
+    "author": "Kazuo Ishiguro",
+    "title": "Never Let Me Go",
+    "year": "2005",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "ba9f4c02-f263-4aea-9ff4-22b81c263935",
+    "author": "Gillian Flynn",
+    "title": "Sharp Objects",
+    "year": "2006",
+    "genre": "Thriller"
+  },
+  {
+    "id": "e5dd78ce-d042-481e-b1a7-47c9e720e558",
+    "author": "Max Brooks",
+    "title": "World War Z An Oral History of the Zombie War",
+    "year": "2006",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "e426edde-49bb-4b37-8038-320250055827",
+    "author": "Cormac McCarthy",
+    "title": "The Road",
+    "year": "2006",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "145d08d1-f54a-403e-bfa9-1439ce74a91e",
+    "title": "The Yiddish Policemen's Union",
+    "author": "Michael Chabon",
+    "year": "2007"
+  },
+  {
+    "id": "a83bc2d9-fe21-4f0e-8696-5f01ab487527",
+    "author": "Tana French",
+    "title": "In the Woods",
+    "year": "2007",
+    "genre": "Mystery"
+  },
+  {
+    "id": "911772bf-5321-4ec2-a27a-d8549b9a1372",
+    "author": "Stieg Larsson",
+    "title": "The Girl with the Dragon Tattoo",
+    "year": "2008",
+    "genre": "Mystery"
+  },
+  {
+    "id": "124a3dee-da38-4ae7-96e1-868f0e2b1488",
+    "author": "Neal Stephenson",
+    "title": "Anathem",
+    "year": "2008",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "7df106ff-13b8-494c-98a0-f80ed254dec5",
+    "author": "C. J. Box",
+    "title": "Blue Heaven",
+    "year": "2008",
+    "award": "Edgar Award Best Novel 2009",
+    "genre": "Mystery"
+  },
+  {
+    "id": "1ced1635-60de-4fba-8449-93f0a5b47479",
+    "author": "Neil Gaiman",
+    "title": "The Graveyard Book",
+    "year": "2008",
+    "award": "Hugo Award Best Novel 2009"
+  },
+  {
+    "id": "59df9a3a-d3d6-43a7-a09b-9ef1e511c3a6",
+    "author": "Liu Cixin",
+    "title": "The Three-Body Problem",
+    "year": "2008",
+    "award": "Hugo Award Best Novel 2015",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "72c8aeda-fdef-4e6b-82dc-783163846015",
+    "author": "Paolo Bacigalupi",
+    "title": "The Windup Girl",
+    "year": "2009",
+    "award": "Nebula Award Best Novel 2010",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "ec273a6f-a4bf-45ab-ac48-cf4ca5851333",
+    "author": "Alan Bradley",
+    "title": "The Sweetness at the Bottom of the Pie",
+    "year": "2009",
+    "genre": "Mystery"
+  },
+  {
+    "id": "96822373-e47a-469d-8e9f-36cae9e1b5a8",
+    "title": "The City & the City",
+    "author": "China Miéville",
+    "year": "2009"
+  },
+  {
+    "id": "7084d95d-7b0e-402b-a783-acc91f89ea3f",
+    "author": "Haruki Murakami",
+    "title": "1Q84",
+    "year": "2009",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "1fa8a3c3-a52b-4694-98dc-bb2f92c9b4d6",
+    "author": "Brandon Sanderson",
+    "title": "The Way Of Kings",
+    "year": "2010",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "dae04ba9-8a80-4173-9b82-aa423971a250",
+    "author": "Charles Yu",
+    "title": "How to Live Safely in a Science Fictional Universe",
+    "year": "2010",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "87a7ca08-c21c-4230-b9cf-25e48e9e6dc8",
+    "author": "China Miéville",
+    "title": "Embassytown",
+    "year": "2011",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "8ee4cf64-eab0-4bf6-8701-416a1b7f8e9c",
+    "author": "Colson Whitehead",
+    "title": "Zone One",
+    "year": "2011",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "e99f4b2f-3bef-4a5a-addd-12043385b911",
+    "author": "Kim Stanley Robinson",
+    "title": "2312",
+    "year": "2012",
+    "award": "Nebula Award Best Novel 2013",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "ca014e71-6709-4ad0-8bdb-e971a54facb1",
+    "author": "Gillian Flynn",
+    "title": "Gone Girl",
+    "year": "2012",
+    "genre": "Mystery"
+  },
+  {
+    "id": "914f7a71-f3fd-4f7c-b2e7-298d00b16b89",
+    "author": "Dennis Lehane",
+    "title": "Live by Night",
+    "year": "2012",
+    "award": "Edgar Award Best Novel 2013",
+    "genre": "Mystery"
+  },
+  {
+    "id": "7c0e9f26-5cb5-484e-806f-d4f48fde37a0",
+    "author": "Donna Tartt",
+    "title": "The Goldfinch",
+    "year": "2013"
+  },
+  {
+    "id": "e35489e4-5051-4d93-ad40-b4085ed31548",
+    "author": "Liane Moriarty",
+    "title": "Big Little Lies",
+    "year": "2014",
+    "genre": "Mystery"
+  },
+  {
+    "id": "34fe5420-a07e-45e7-b1a1-946e839723c9",
+    "author": "Stephen King",
+    "title": "Mr. Mercedes",
+    "year": "2014",
+    "award": "Edgar Award Best Novel 2015",
+    "genre": "Mystery"
+  },
+  {
+    "id": "d336cd6a-1c0d-4d4a-896a-bcefc1117688",
+    "author": "Jeff VanderMeer",
+    "title": "Annihilation",
+    "year": "2014",
+    "award": "Nebula Award Best Novel 2014",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "49c3b8fc-ab71-45f9-8794-171aa2dfb0d3",
+    "author": "Emily St. John Mandel",
+    "title": "Station Eleven",
+    "year": "2014",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "1d80d601-4544-44e2-8098-96b02fe48dfa",
+    "author": "Paula Hawkins",
+    "title": "The Girl on the Train",
+    "year": "2015",
+    "genre": "Thriller"
+  },
+  {
+    "id": "dc1c62b6-ae29-43f0-99a5-02616c2826ac",
+    "author": "N. K. Jemisin",
+    "title": "The Fifth Season",
+    "series": "Broken Earth",
+    "year": "2015",
+    "award": "Hugo Award Best Novel 2016",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "648dc1bf-f713-45d9-a230-a41401b0c315",
+    "author": "Nnedi Okorafor",
+    "title": "The Book of Phoenix",
+    "year": "2015",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "23027375-a190-42ef-9279-f5653947ce31",
+    "author": "Catherynne M. Valente",
+    "title": "Radiance",
+    "year": "2015",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "3fe6df70-459c-4292-8225-7043da66397e",
+    "author": "Becky Chambers",
+    "title": "The Long Way to a Small, Angry Planet",
+    "series": "Wayfarers",
+    "year": "2015",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "88efb3df-0a6a-4ba8-98c0-5297c4f5e943",
+    "author": "Tana French",
+    "title": "The Trespasser",
+    "year": "2016",
+    "genre": "Mystery"
+  },
+  {
+    "id": "ec374a01-8a8c-49d7-8675-83ac5194047d",
+    "author": "Susan Moody",
+    "title": "Penny Black",
+    "year": "2016",
+    "genre": "Mystery"
+  },
+  {
+    "id": "8b8ffea3-8609-4919-825e-7876c22a47c0",
+    "author": "N. K. Jemisin",
+    "title": "The Obelisk Gate",
+    "series": "Broken Earth",
+    "year": "2016",
+    "award": "Hugo Award Best Novel 2017",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "f2047e4a-4aac-4583-a266-1c265bafbdcb",
+    "author": "Tade Thompson",
+    "title": "Rosewater",
+    "series": "The Wormwood Trilogy ",
+    "year": "2016",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "637ffe01-aca8-4408-ba94-087189395095",
+    "author": "Attica Locke",
+    "title": "Bluebird, Bluebird",
+    "year": "2017",
+    "award": "Edgar Award Best Novel 2018",
+    "genre": "Mystery"
+  },
+  {
+    "id": "a81550fb-4fac-42a8-afd0-0553f4d57123",
+    "author": "Jane Harper",
+    "title": "The Dry",
+    "year": "2017",
+    "genre": "Mystery"
+  },
+  {
+    "id": "2659caa6-f2cc-4afc-bbc3-56946576b07d",
+    "author": "Lee Child",
+    "title": "The Midnight Line",
+    "year": "2017",
+    "genre": "Mystery"
+  },
+  {
+    "id": "6c8cb311-bb0f-40ac-9b2e-e185e99db8ff",
+    "author": "N. K. Jemisin",
+    "title": "The Stone Sky",
+    "series": "Broken Earth",
+    "year": "2017",
+    "award": "Hugo Award Best Novel 2018",
+    "genre": "Fantasy"
+  },
+  {
+    "id": "29f7df95-3f63-4f3e-ba16-4f613abd0c14",
+    "author": "Louise Erdrich",
+    "title": "Future Home of the Living God",
+    "year": "2017",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "a324df14-b5f3-432f-ab2e-eb459cdeb02b",
+    "author": "Rivers Solomon",
+    "title": "An Unkindness of Ghosts",
+    "year": "2017",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "080bc68d-bdaf-4649-9a23-2c2a5796ad4a",
+    "author": "Oyinkan Braithwaite",
+    "title": "My Sister, the Serial Killer",
+    "year": "2018",
+    "genre": "Thriller"
+  },
+  {
+    "id": "84349693-af48-468b-a96e-3e32edda7e71",
+    "author": "A.J. Finn",
+    "title": "The Woman in the Window",
+    "year": "2018"
+  },
+  {
+    "id": "87001fe2-e8a0-4920-b092-4406d5e196e7",
+    "author": "Shari Lapena",
+    "title": "A Stranger in the House",
+    "year": "2018"
+  },
+  {
+    "id": "0f69e4b0-3917-4735-bbc1-579b6f52290d",
+    "author": "Alex Michaelides",
+    "title": "The Silent Patient",
+    "year": "2019"
+  },
+  {
+    "id": "e0596c4b-f2b6-4dbc-8748-504ffe148069",
+    "author": "Arkady Martine",
+    "title": "A Memory Called Empire",
+    "year": "2019",
+    "award": "Hugo Award Best Novel 2020",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "e616d59b-7966-4a18-8b10-ffa9744b92c4",
+    "author": "Amal El-Mohtar; Max Gladstone",
+    "title": "This Is How You Lose the Time War",
+    "year": "2019",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "66d72807-510d-4944-ae24-cc660977546b",
+    "author": "Ted Chiang",
+    "title": "Exhalation: Stories",
+    "year": "2019",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "9fbff439-2a29-4630-aab5-3b734cea6e36",
+    "author": "N. K. Jemisin",
+    "title": "The City We Became",
+    "year": "2020"
+  },
+  {
+    "id": "3d9ea726-d5b5-437d-8cd8-a8af3d27dac4",
+    "author": "Gish Jen",
+    "title": "The Resisters",
+    "year": "2020",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "8c4ce0b5-50f6-4cb6-9b54-a2bec2dbb5b8",
+    "author": "Sarah Gailey",
+    "title": "The Echo Wife",
+    "year": "2021",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "0baf2b4a-35ce-495a-99e6-a7dddd35abb7",
+    "author": "Lincoln Michel",
+    "title": "The Body Scout",
+    "year": "2021",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "f0db1dba-9da2-4b05-ba2d-5c39bfe403e7",
+    "author": "Olga Ravn",
+    "title": "The Employees",
+    "year": "2021",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": "45671e80-cfc9-40d0-8b33-15b8dcbdd821",
+    "author": "Octavia E. Butler",
+    "title": "Kindred",
+    "year": "1979",
+    "genre": "Science Fiction"
+  }
+]

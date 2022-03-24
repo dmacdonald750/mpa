@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1 Book Delete
+  p #{book.title} by #{book.author}, #{book.year}.
+  p Do you really want to delete this Book?
+  form(method='post' action='/mpa/book/delete')
+    input(type='hidden' name='id' value=`${book.id}`)
+    button(type='submit') Delete

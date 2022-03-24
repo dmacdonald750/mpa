@@ -1,0 +1,16 @@
+extends layout
+
+block content
+  h1 Book Form
+  form(action=`${action}`, method='post')
+    input(type='hidden', name='id', value=`${book.id}`)
+    div
+      label(for='title') Title:
+      input(type='text' name='title' value=`${book.title}`)
+    div
+      label(for='author') Author:
+      input(type='text' name='author' value=`${book.author}`)
+    div
+      label(for='year') Year:
+      input(type='text' name='year' value=`${book.year}`)
+    input(type='submit' value='Submit')

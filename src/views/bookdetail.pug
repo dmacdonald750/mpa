@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  h1 Book Detail
+  - console.log(book);
+  div Title:  #{book.title}
+  div Author:  #{book.author}
+  div Year: #{book.year}
+  div
+    a(href=`/mpa/book/update/${book.id}`) Update
+    | 
+    a(href=`/mpa/book/delete/${book.id}`) Delete

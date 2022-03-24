@@ -1,0 +1,32 @@
+[
+  {
+    "id": "5211e73f-371a-4e8c-8462-4897d29d2aa0",
+    "author": "J. D. Salinger",
+    "title": "The Catcher in the Rye",
+    "year": "1951"
+  },
+  {
+    "id": "f1a6a960-9f68-4183-b55d-b15d7d1b1f69",
+    "author": "Ralph Ellison",
+    "title": "Invisible Man",
+    "year": "1952"
+  },
+  {
+    "id": "f1b0676d-bc9b-4d21-ba38-eab0412b46d3",
+    "author": "Ray Bradbury",
+    "title": "Fahrenheit 451",
+    "year": "1953"
+  },
+  {
+    "id": "90045074-19ec-43d1-9e7e-fd8bb84f5f71",
+    "title": "The Fellowship of the Ring",
+    "author": "J. R. R. Tolkien",
+    "year": "1954"
+  },
+  {
+    "id": "c48c79d2-9234-49aa-904b-89094f330c45",
+    "title": "Midnight's Children",
+    "author": "Salman Rushdie",
+    "year": "1981"
+  }
+]

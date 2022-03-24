@@ -1,0 +1,13 @@
+extends layout
+
+block content
+  h1 Book List
+  ol
+    each book in books
+      li 
+        a(href=`/mpa/book/${book.id}`) #{book.title} 
+        | by #{book.author}, #{book.year}.
+
+  footer
+    p 
+      a(href='/mpa/book/create') New book
